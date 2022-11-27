@@ -1,0 +1,15 @@
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.AssemblyInfoInputs.cache
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.AssemblyInfo.cs
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\7.113\7.113\bin\Debug\net6.0\7.113.exe
+A:\МДК 01.01\base_alg\7.113\7.113\bin\Debug\net6.0\7.113.deps.json
+A:\МДК 01.01\base_alg\7.113\7.113\bin\Debug\net6.0\7.113.runtimeconfig.json
+A:\МДК 01.01\base_alg\7.113\7.113\bin\Debug\net6.0\7.113.dll
+A:\МДК 01.01\base_alg\7.113\7.113\bin\Debug\net6.0\7.113.pdb
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.dll
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\refint\7.113.dll
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.pdb
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\7.113.genruntimeconfig.cache
+A:\МДК 01.01\base_alg\7.113\7.113\obj\Debug\net6.0\ref\7.113.dll
